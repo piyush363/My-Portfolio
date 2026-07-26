@@ -23,7 +23,7 @@ export default function About() {
           <div>
             <div className="w-full h-[400px] rounded-2xl bg-[#111827] border border-slate-800 flex items-center justify-center">
               <span className="text-slate-500 text-lg">
-                Your Photo Here
+                <img src="photo.jpeg"></img>
               </span>
             </div>
           </div>
